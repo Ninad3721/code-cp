@@ -1,0 +1,6 @@
+public class Solution {
+    public int solution(String input) {
+        // Write your logic here, where input is  input test case 
+        return 0;
+    }
+}
